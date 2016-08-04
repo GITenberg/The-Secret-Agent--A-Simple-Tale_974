@@ -1,0 +1,61 @@
+_repo: The-Secret-Agent--A-Simple-Tale_974
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Jozef Konrad Teodor
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: "The Secret Agent: A Simple Tale is a novel by Joseph Conrad, published\
+  \ in 1907. The story is set in London in 1886 and deals with Mr. Adolf Verloc and\
+  \ his work as a spy for an unnamed country (presumably Russia). The Secret Agent\
+  \ is notable for being one of Conrad's later political novels in which he moved\
+  \ away from his former tales of seafaring.\nThe novel deals broadly with anarchism,\
+  \ espionage and terrorism. It also deals with exploitation of the vulnerable, particularly\
+  \ in Verloc's relationship with his brother-in-law Stevie, who has an intellectual\
+  \ disability.\nThe Secret Agent was ranked the 46th best novel of the 20th century\
+  \ by Modern Library.\nBecause of its terrorism theme, it was noted as \"one of the\
+  \ three works of literature most cited in the American media\" two weeks after the\
+  \ September 11 attacks.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Mystery Fiction
+gutenberg_issued: '1997-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '974'
+  wikidata: Q1247666
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conspiracies -- Fiction'
+- !lcsh 'Political fiction'
+- !lcc 'PR'
+- !lcsh 'Anarchists -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Bombings -- Fiction'
+- GITenberg
+title: 'The Secret Agent: A Simple Tale'
+url: http://www.gutenberg.org/ebooks/974
+wikipedia:
+- https://fr.wikipedia.org/wiki/L%27Agent_secret
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%84_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A
+- https://id.wikipedia.org/wiki/The_Secret_Agent
+- https://fa.wikipedia.org/wiki/%D9%85%D8%A3%D9%85%D9%88%D8%B1_%D9%85%D8%AE%D9%81%DB%8C
+- https://de.wikipedia.org/wiki/Der_Geheimagent
+- https://tr.wikipedia.org/wiki/The_Secret_Agent
+- https://es.wikipedia.org/wiki/El_agente_secreto
+- https://en.wikisource.org/wiki/The_Secret_Agent
+- https://en.wikipedia.org/wiki/The_Secret_Agent
+- https://pl.wikisource.org/wiki/Tajny_agent_(t%C5%82um._Zag%C3%B3rska)
+- https://it.wikipedia.org/wiki/L%27agente_segreto_(Conrad)
+- https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B3%D0%B5%D0%BD%D1%82_(%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0)
+- https://sh.wikipedia.org/wiki/The_Secret_Agent
+- https://pa.wikipedia.org/wiki/%E0%A8%A6_%E0%A8%B8%E0%A9%80%E0%A8%95%E0%A8%B0%E0%A8%9F_%E0%A8%8F%E0%A8%9C%E0%A9%B0%E0%A8%9F
+- https://mk.wikipedia.org/wiki/%D0%A2%D0%B0%D1%98%D0%BD%D0%B8%D0%BE%D1%82_%D0%B0%D0%B3%D0%B5%D0%BD%D1%82
